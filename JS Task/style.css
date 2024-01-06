@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(https://i.ytimg.com/vi/n30-EJZxWSc/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  padding: 10px;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li a {
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+}
